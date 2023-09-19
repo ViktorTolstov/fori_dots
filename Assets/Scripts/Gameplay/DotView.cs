@@ -23,7 +23,6 @@ namespace ForiDots
         private const float VisualSelectedScale = 0.75f;
         private const float AnimationTime = 0.5f;
         private const float SelectionAlpha = 0.5f;
-        private const float DefaultVisualPositionOffset = 3f;
         
         public void Setup(GameView parent)
         {

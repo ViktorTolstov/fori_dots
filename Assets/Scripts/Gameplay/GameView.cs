@@ -21,7 +21,6 @@ namespace ForiDots
         private List<DotView> _dotsViews = new ();
         private GameController _gameController;
         private Sequence _destroySequence = null;
-        private Sequence _moveSequence = null;
         
         public void Setup(GameController gameController)
         {
